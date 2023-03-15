@@ -19,9 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![](./QR-Website.png)
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://github.com/AlexMagargiu/FM-QR-Code/tree/main)
-- Live Site URL: [Add live site URL here](https://alexmagargiu.github.io/FM-QR-Code/)
+- Live Site URL: [Website](https://alexmagargiu.github.io/FM-QR-Code/)
 
 ## My process
 
